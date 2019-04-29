@@ -1,0 +1,49 @@
+<LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:id="@+id/days"
+        android:layout_width="40dp"
+        android:layout_height="50dp"
+        android:text="Day:"
+        android:textSize="18sp"
+        android:layout_weight="1"/>
+
+
+    <TextView
+        android:id="@+id/time_text"
+        android:layout_width="15dp"
+        android:layout_height="50dp"
+        android:layout_weight="1"
+        android:text="Time:"
+        android:textSize="18sp" />
+
+
+    <TextView
+        android:id="@+id/room_no_text"
+        android:layout_width="30dp"
+        android:layout_height="50dp"
+        android:text="Room No:"
+        android:textSize="18sp"
+        android:layout_weight="1"/>
+
+    <TextView
+        android:id="@+id/subject_text"
+        android:layout_width="30dp"
+        android:layout_height="105dp"
+        android:layout_weight="1"
+        android:text="Subject:"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/faculty_text"
+        android:layout_width="40dp"
+        android:layout_height="50dp"
+        android:text="Faculty:"
+        android:textSize="18sp"
+        android:layout_weight="1"/>
+
+
+</LinearLayout>

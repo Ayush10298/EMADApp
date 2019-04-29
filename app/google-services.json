@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "245341861850",
+    "firebase_url": "https://emadapp-c7901.firebaseio.com",
+    "project_id": "emadapp-c7901",
+    "storage_bucket": "emadapp-c7901.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245341861850:android:1baa34ad87192691",
+        "android_client_info": {
+          "package_name": "com.example.emadapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245341861850-c5mqi6vhpqs8rpr3p9u1b1p4kja5crnl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emadapp",
+            "certificate_hash": "4db5aa44350d336e57651e2436953e06dbc5222e"
+          }
+        },
+        {
+          "client_id": "245341861850-037ubfgoh5dob1rhncij6ssj08cbtmfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB64lNa-ryM-LXGr6Jf3Erl2u5uQevx8ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245341861850-037ubfgoh5dob1rhncij6ssj08cbtmfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
